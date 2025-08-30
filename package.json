@@ -14,6 +14,6 @@
     "@vue/cli-service": "^4.5.0"
   },
   "keywords": [],
-  "author": "Your Name", // Please provide author name
+  "author": "Your Name", // Please provide a proper author name
   "license": "ISC"
 }
